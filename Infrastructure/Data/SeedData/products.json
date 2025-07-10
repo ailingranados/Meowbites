@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Pastel de Chocolate Supremo",
+    "Description": "Delicioso pastel de chocolate con cobertura de ganache, perfecto para los amantes del cacao.",
+    "Price": 350,
+    "PictureUrl": "/images/products/cake-choco1.png",
+    "Type": "Pasteles",
+    "Brand": "Delicias Dulces",
+    "QuantityInStock": 25
+  },
+  {
+    "Name": "Pastel de Vainilla con Frutas",
+    "Description": "Bizcocho esponjoso de vainilla con relleno de crema pastelera y frutas frescas de temporada.",
+    "Price": 320,
+    "PictureUrl": "/images/products/cake-fruit1.png",
+    "Type": "Pasteles",
+    "Brand": "Frutalicious",
+    "QuantityInStock": 18
+  },
+  {
+    "Name": "Red Velvet Clásico",
+    "Description": "Cupcake de terciopelo rojo con betún de queso crema. Una delicia tradicional.",
+    "Price": 380,
+    "PictureUrl": "/images/products/cake-redvelvet.png",
+    "Type": "Cupcake",
+    "Brand": "Velvet House",
+    "QuantityInStock": 15
+  },
+  {
+    "Name": "Cheesecake de Fresa",
+    "Description": "Pastel frío de queso crema sobre base de galleta, cubierto con mermelada natural de fresa.",
+    "Price": 300,
+    "PictureUrl": "/images/products/cake-cheesecake1.png",
+    "Type": "Pay",
+    "Brand": "CheesyBites",
+    "QuantityInStock": 20
+  },
+  {
+    "Name": "Pastel Tres Leches",
+    "Description": "Clásico pastel latinoamericano empapado en tres tipos de leche y cubierto con crema batida.",
+    "Price": 280,
+    "PictureUrl": "/images/products/cake-3leches.png",
+    "Type": "Pasteles",
+    "Brand": "Tradición Pastelera",
+    "QuantityInStock": 30
+  },
+  {
+    "Name": "Cupcake de Zanahoria con Nueces",
+    "Description": "Bizcocho húmedo de zanahoria con trozos de nuez y glaseado de queso crema.",
+    "Price": 290,
+    "PictureUrl": "/images/products/cake-carrot1.png",
+    "Type": "Cupcake",
+    "Brand": "Sweet Nature",
+    "QuantityInStock": 22
+  },
+  {
+    "Name": "Pastel de Chocolate Blanco y Frambuesa",
+    "Description": "Exquisita combinación de chocolate blanco y frambuesa en un pastel elegante.",
+    "Price": 370,
+    "PictureUrl": "/images/products/cake-whitechoco.png",
+    "Type": "Pasteles",
+    "Brand": "ChocoArt",
+    "QuantityInStock": 12
+  },
+  {
+    "Name": "Pastel Arcoíris",
+    "Description": "Colorido pastel con capas de diferentes sabores y cobertura de buttercream.",
+    "Price": 400,
+    "PictureUrl": "/images/products/cake-rainbow.png",
+    "Type": "Pasteles",
+    "Brand": "HappyCakes",
+    "QuantityInStock": 10
+  }
+]
